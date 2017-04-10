@@ -1,0 +1,35 @@
+body{
+  font-family: open-sans,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+div.container{
+  margin-top: 20px;
+  width: 720px;
+}
+
+div.plugin{
+  margin: 0 auto;
+}
+
+div.status{
+  width: 70%;
+  margin: 0 auto;
+}
+
+p.current-status{
+
+}
+
+p.goal-status{
+  float: right;
+}
+
+span.amount,
+span.backers{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+span.amount{
+  color: #428bca;
+}
